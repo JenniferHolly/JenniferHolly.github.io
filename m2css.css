@@ -1,3 +1,30 @@
+/* Styling for Full Document */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e8ccbf;
+    font-size: 120%;
+    margin: 0;
+    padding: 0;
+
+}
+
+/*Styling for Boxes and Content in Boxes*/
+
+#box{
+   background-color: #cfb9a5; 
+   Padding: 5px;
+   border: 2px #13505B;
+   margin: 30px;
+}
+
+#content {
+    background-color: #cfb9a5;
+}
+
+
+
+
+
 /* Simple Responsive Framework */
 .row {
     width: 100%;
